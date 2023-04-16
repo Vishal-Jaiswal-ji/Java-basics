@@ -1,2 +1,2 @@
 # Java-basics
-This is a java core Programming
+There is a basic java program for beginners
